@@ -8,6 +8,8 @@ It's an app realtime with Websockets using tech as Node, Express, and Socket.io 
 npm i
 ```
 
+Now you can open it in: [http://localhost:3000](http://localhost:3000)
+
 ## Run in localhost
 
 ```
