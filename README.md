@@ -24,7 +24,7 @@ npm start
 
 ## App Info
 
-### Source
+### Sources
 
 [Realtime Chat With Users & Rooms - Socket.io, Node & Express](https://www.youtube.com/watch?v=jD7FnbI76Hg)
 
