@@ -27,8 +27,3 @@ npm start
 ### Sources
 
 [Realtime Chat With Users & Rooms - Socket.io, Node & Express](https://www.youtube.com/watch?v=jD7FnbI76Hg)
-
-### Author
-
-Franz Medrano
-[Traversy Media](https://www.traversymedia.com/)
